@@ -1,5 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ASAP : a react SaaS app boilerplate to get stated with your project As Soon As Possible
 
+ - Authentication is handled with Auth0
+ - Product listing and billing done with ChargeBee
+
+# create with create-react-app
+- foloweing totutiral
+https://auth0.com/docs/quickstart/spa/react/01-login
+google login : https://support.google.com/googleapi/answer/6158849
+ - create .env based on .env.sample and value from auth0
+ - now dev
+ 
+need charge
 ## Available Scripts
 
 In the project directory, you can run:
